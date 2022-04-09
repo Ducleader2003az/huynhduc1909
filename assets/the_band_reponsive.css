@@ -29,6 +29,10 @@
         width: 100% ;
         padding: unset ;
     }
+    .ticket-container{
+        max-width: 800px;
+        padding: 0px 15px;
+    }
 
 }
 
