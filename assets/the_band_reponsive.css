@@ -39,6 +39,14 @@
 
 }
 
+/* Tablet and Mobile */
+@media (max-width:1023px){
+    .submit-btn{
+        width: 100% ;
+        padding: 12px 16px;
+    }
+}
+
 /* Tablet */
 @media (min-width:740px) and (max-width:1023px){
 
