@@ -29,6 +29,13 @@
         width: 100% ;
         padding: unset ;
     }
+    .multi-bar{
+        display: block;
+    }
+    .multi-bar .bar_gear2{
+        position: unset;
+        background-color: gray;
+    }
 
 }
 
